@@ -1,1 +1,1 @@
-Here is about my ML homework, the production of Koch's Snowflake.
+Here is about my ML homework and the production of Koch's Snowflake.
